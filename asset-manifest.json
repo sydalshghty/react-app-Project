@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-app-Project/static/css/main.88b3f4dd.css",
+    "main.js": "/react-app-Project/static/js/main.ec83f024.js",
+    "static/media/home (10).png": "/react-app-Project/static/media/home (10).9f95562da752320a72ff.png",
+    "static/media/home (11).png": "/react-app-Project/static/media/home (11).cb5df6a54c8370cc311b.png",
+    "static/media/home (12) (1).png": "/react-app-Project/static/media/home (12) (1).1c6cfb2b304a113c3679.png",
+    "static/media/Vector Smart Object-ai (1)-svg (1).svg": "/react-app-Project/static/media/Vector Smart Object-ai (1)-svg (1).3116a0592b747eb1dc126fa81ed9acd0.svg",
+    "index.html": "/react-app-Project/index.html",
+    "main.88b3f4dd.css.map": "/react-app-Project/static/css/main.88b3f4dd.css.map",
+    "main.ec83f024.js.map": "/react-app-Project/static/js/main.ec83f024.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88b3f4dd.css",
+    "static/js/main.ec83f024.js"
+  ]
+}
